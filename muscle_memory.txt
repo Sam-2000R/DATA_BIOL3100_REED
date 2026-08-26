@@ -2,3 +2,4 @@ The purpose of this text file is to practice updating my github repository.
 
 Commit 1
 Commit 2
+Commit 3
